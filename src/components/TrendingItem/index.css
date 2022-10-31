@@ -1,0 +1,15 @@
+.trendinglistitem {
+  list-style: none;
+}
+.tcont {
+  display: flex;
+  flex-direction: column;
+}
+.timage {
+  height: 150px;
+  width: 120px;
+}
+.innert {
+  display: flex;
+  flex-direction: column;
+}

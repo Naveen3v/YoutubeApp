@@ -1,0 +1,34 @@
+.vicont {
+  display: flex;
+  flex-direction: column;
+}
+.vitext {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.viview1 {
+  display: flex;
+  flex-direction: row;
+}
+.viview2 {
+  display: flex;
+  flex-direction: row;
+}
+.vilogo {
+  display: flex;
+  flex-direction: row;
+}
+
+.channellogo {
+  height: 40px;
+  width: 40px;
+}
+.vilast {
+  display: flex;
+  flex-direction: column;
+}
+.vimain {
+  display: flex;
+  flex-direction: row;
+}

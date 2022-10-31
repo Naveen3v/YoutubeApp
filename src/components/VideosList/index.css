@@ -1,0 +1,23 @@
+.listitemcontainer {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.homelistimage {
+  height: 80px;
+  width: 180px;
+}
+.profilecont {
+  display: flex;
+  flex-direction: row;
+}
+.profilelistimage {
+  height: 50px;
+  width: 50px;
+}
+
+.viewscont {
+  display: flex;
+  flex-direction: row;
+}

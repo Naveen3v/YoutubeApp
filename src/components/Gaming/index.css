@@ -1,0 +1,13 @@
+.trendinglistcontg {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.shcont {
+  display: flex;
+  flex-direction: row;
+}
+.trendheading {
+  display: flex;
+  flex-direction: column;
+}
